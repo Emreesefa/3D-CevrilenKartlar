@@ -1,8 +1,8 @@
-*3D Flip Kart Projesi*
+# 3D Flip Kart Projesi
 
 Bu proje, HTML, CSS ve JavaScript kullanarak bir 3D flip kart animasyonunu sergiler. Kartların hover ya da tıklama ile döndüğü, etkileşimli ve görsel olarak etkileyici bir deneyim sunar.
 
-*Özellikler*
+## Özellikler
 
 3D Flip Animasyonu: Kartların hover veya tıklama ile döndüğü, akıcı bir flip animasyonu.
 
@@ -10,7 +10,7 @@ Bu proje, HTML, CSS ve JavaScript kullanarak bir 3D flip kart animasyonunu sergi
 
 Duyarlı Tasarım: Farklı ekran boyutlarına (mobil ve masaüstü) uyum sağlar.
 
-*Kullanılan Teknolojiler*
+# Kullanılan Teknolojiler
 
 HTML5
 
@@ -18,7 +18,7 @@ CSS3 (3D efektler için CSS dönüşümleri dahil)
 
 JavaScript (etkileşimlerin yönetimi için)
 
-*Ekran Görüntüleri*
+# Ekran Görüntüleri
 
 ![ekran](https://github.com/user-attachments/assets/7a66a17a-c892-4aaa-9727-33e9f448fa83)
 
